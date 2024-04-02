@@ -1,16 +1,14 @@
-# quizzler
+# Quizzler
+Quizzler is a quiz app which tests your basic knowledge.
 
-A new Flutter project.
+## Details
 
-## Getting Started
+```bash
+  ➞ You have an interesting set of qustions to test your knowledge.
+  ➞ Quizzler app can be used on both Android and iOS.
+  ➞ Clone it for yourself and add more questions!
+  ```
+    
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/bilalahmedmirza/Quizzler/blob/master/PHOTOS/1.png" width="300" height="510"> <img src="https://github.com/bilalahmedmirza/Quizzler/blob/master/PHOTOS/2.png" width="300" height="510"> <img src="https://github.com/bilalahmedmirza/Quizzler/blob/master/PHOTOS/3.png" width="300" height="510">
